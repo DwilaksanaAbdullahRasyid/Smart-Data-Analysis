@@ -1,0 +1,15 @@
+Description :
+- Preprocessing Japanese text from Yahoo
+- Create a wordcloud based on the text
+
+Keywords :
+- Python
+- Teaching
+- Natural Language Processing
+- Japanese Text
+- Wordcloud
+- Support vector machine
+- Sentiment classification
+
+Author : Junjie Hu
+edited : Dwilaksana Abdullah Rasyid
