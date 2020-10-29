@@ -1,0 +1,6 @@
+Description: Collect >=130 abstracts from http://www.wiwi.hu-berlin.de/de/forschung/irtg/results/discussion-papers
+
+Keywords: web scraper, regular expression, abstract analysis, LDA preparation, textmining
+
+Author: FB, FS, JH, WKH
+edited: Dwilaksana Abdullah Rasyid
